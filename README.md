@@ -1,2 +1,6 @@
-# Springboard
-Springboard Data Science Career Track
+# Data Science Career Track
+This reposiotry contains all the mini-projects that were completed as a part of Springboard Data Science Career Track.
+
+### Contents
+1. JSON Based project(Analyzing World Bank Projects).
+
