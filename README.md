@@ -8,3 +8,4 @@ This reposiotry contains all the mini-projects that were completed as a part of 
 4. Inferential Statistics/[What is true normal body temperature?](https://github.com/rtb2/Springboard/blob/master/Inferential%20Statistics/sliderule_dsi_inferential_statistics_exercise_1.ipynb)
 5. Inferential Statistics/[Racial Discrimination](https://github.com/rtb2/Springboard/blob/master/Inferential%20Statistics/sliderule_dsi_inferential_statistics_exercise_2.ipynb)
 6. Inferential Statistics/[Hospital Readmission Analysis.](https://github.com/rtb2/Springboard/blob/master/Inferential%20Statistics/sliderule_dsi_inferential_statistics_exercise_3.ipynb)
+7. [Linear Regression Mini Project with Boston Housing Data](https://github.com/rtb2/Springboard/blob/master/Mini_Project_Linear_Regression.ipynb)
